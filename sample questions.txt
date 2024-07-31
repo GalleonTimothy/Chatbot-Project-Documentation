@@ -1,0 +1,24 @@
+Good afternoon... 
+Please, use these questions to test your chat bot
+-----------------
+1. What's the current weather like in Baguio?
+2. Can you tell me a fun fact about Baguio?
+3. How do I get to the nearest shopping mall?
+4. What are the top tourist attractions in Baguio?
+5. Can you recommend a good book to read?
+6. What are some tips for improving my English skills?
+7. What's the latest news headline?
+8. How do I cook a simple pasta dish?
+9. Can you tell me a joke?
+10. What's the best way to manage stress?
+
+1. Where is the Pines International Academy in Baguio located?
+2. Can you provide the class schedule for the Pines International Academy?
+3. What are the tuition and accommodation fees?
+4. What types of programs does the language school offer?
+5. What are the admission procedures and required documents?
+6. Can you recommend some good restaurants near the language school?
+7. What learning materials does the language school provide?
+8. What is the holiday schedule for the language school?
+9. What activities does the language school offer?
+10. Can I get a consultation before enrolling in the language school?
