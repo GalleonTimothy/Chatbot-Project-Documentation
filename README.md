@@ -14,3 +14,5 @@
 <p>This documentation provides details on setting up and running the chatbot project. The chatbot utilizes the GroqCloud API and the 'llama3-8b-8192' model for generating responses. The primary data is sourced locally from text or PDF files, while additional data can be obtained from external sources.</p>
 
 <h2>Setup</h2>
+
+<h3>1. Setting Up a Virtual Environment</h3>
