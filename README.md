@@ -1,5 +1,7 @@
-# My Project
+# Groq Chatbot Project
 
-![Description of the image](readme-images/venv.png)
+<img src="readme-images/venve.png" alt="Project Overview" width="300"/>
 
-This is a sample project that demonstrates how to display an image in the README file.
+<h1 style="color: red;">Groq Chatbot Project Documentation</h1>
+
+<p style="font-size:20px;">This is a sample project that demonstrates how to display an image in the README file.</p>
