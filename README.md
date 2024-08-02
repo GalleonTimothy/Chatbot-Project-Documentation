@@ -16,3 +16,8 @@
 <h2>Setup</h2>
 
 <h3>1. Setting Up a Virtual Environment</h3>
+<p>It's recommended to use a virtual environment to manage the project dependencies. Follow these steps to set up and activate a virtual environment:</p>
+
+<p><b>Create a Virtual Environment</b></p>
+
+<img src="readme-images/venv.png" style="width: 100%; height: auto;">
