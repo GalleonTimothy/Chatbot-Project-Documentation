@@ -1,12 +1,12 @@
 <h1>Groq Chatbot Project Documentation</h1>
 <h2>Table of Contents</h2>
-<ul>
-    <li>Setting Up a Virtual Environment</li>
-    <li>Activate the Virtual Environment</li>
-    <li>Install Dependencies</li>
-    <li>Configuration</li>
-    <li>Data Sources</li>
-    <li>How to Run</li>
+<ul style="font-size: 25px;">
+    <li style="margin-bottom: 20px;">Setting Up a Virtual Environment</li>
+    <li style="margin-bottom: 20px;">Activate the Virtual Environment</li>
+    <li style="margin-bottom: 20px;">Install Dependencies</li>
+    <li style="margin-bottom: 20px;">Configuration</li>
+    <li style="margin-bottom: 20px;">Data Sources</li>
+    <li style="margin-bottom: 20px;">How to Run</li>
     <li>Troubleshooting</li>
 </ul>
 
